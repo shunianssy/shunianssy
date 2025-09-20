@@ -1,7 +1,7 @@
 ## 大家好，这里是小狐狸，吾家小狐
-一个高中生
-会使用python，html，喜欢研究网站前后端
-一个自由开发者
+一个高中生  
+会使用python，html，喜欢研究网站前后端  
+一个自由开发者  
 
 <!--
 **shunianssy/shunianssy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
