@@ -3,6 +3,10 @@
 会使用python，html，喜欢研究网站前后端  
 一个自由开发者  
 
+## 我在干什么？
+1.编写网站[sbox.yearnstudio.cn](https://sbox.yearnstudio.cn)和纠正网站的错误代码
+2.策划小盒子社区的运营，思考下一步运营计划
+
 <!--
 **shunianssy/shunianssy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
