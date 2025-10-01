@@ -1,3 +1,6 @@
+## 赞助我
+你可以请我喝杯咖啡[ifdian.net/a/shunian](https://www.ifdian.net/a/shunian)  
+
 ## 大家好，这里是小狐狸，吾家小狐
 一个高中生  
 会使用python，html，喜欢研究网站前后端  
@@ -6,18 +9,4 @@
 ## 我在干什么？
 1.编写网站[sbox.yearnstudio.cn](https://sbox.yearnstudio.cn)和纠正网站的错误代码
 2.策划小盒子社区的运营，思考下一步运营计划
-
-<!--
-**shunianssy/shunianssy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+3.修改开源项目foxwebsite的源代码
