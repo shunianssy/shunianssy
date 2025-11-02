@@ -1,3 +1,5 @@
+[简体中文](https://github.com/shunianssy/shunianssy/blob/main/Zn-README.md)
+
 Hi, I'm Xiao Hu Li, aka "Wu Jia Xiao Hu"  
 
 A high school student passionate about coding and creation, working as an independent developer.
