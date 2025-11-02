@@ -36,6 +36,7 @@ git config --global credential.helper manager-core
 
 # 10. 推送并设置上游分支
 git push -u origin main
+强行推送 git push -u origin main --force
 ```
 ---
 ### 安全替代方案：使用带 Token 的 URL（临时用）
@@ -99,7 +100,3 @@ secrets/
 *.key
 *.pem
 ```
-
----
-
-如果你希望将此流程**自动化成脚本**（例如一键推送），或者需要**同步到 Gitee 作为国内备份**，我也可以帮你实现。是否需要？
