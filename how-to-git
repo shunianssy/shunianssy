@@ -1,0 +1,105 @@
+如何使用Git
+```powershell
+# 1. 确保你在正确的目录
+cd C:\Users\Public\TurtleWorkspace\新的作品-50\templates
+
+# 2. 初始化 Git 仓库（仅首次需要）
+git init
+
+# 3. 设置默认分支名为 main（与 GitHub 默认一致）
+git branch -M main
+
+# 4. 【重要】创建 .gitignore 文件，避免误传敏感内容
+#    示例内容（可根据项目调整）：
+echo "config.json" >> .gitignore
+echo ".env" >> .gitignore
+echo "node_modules/" >> .gitignore
+echo "*.log" >> .gitignore
+echo "secrets/" >> .gitignore
+
+# 5. 添加所有非忽略文件到暂存区
+git add .
+
+# 6. 首次提交（必须有！）
+git commit -m "feat: initial commit of templates"
+
+# 7. 检查是否已设置远程仓库，避免重复添加
+git remote -v
+# 如果已有 origin，先移除再重设（防止 URL 带空格等错误）
+git remote remove origin 2>$null
+
+# 8. 添加远程仓库（确保 URL 无多余空格！）
+git remote add origin https://github.com/shunianssy/sbox-web.git
+
+# 9. 【推荐】配置凭据助手，避免反复输入 PAT
+git config --global credential.helper manager-core
+
+# 10. 推送并设置上游分支
+git push -u origin main
+```
+---
+### 安全替代方案：使用带 Token 的 URL（临时用）
+> 仅用于一次性推送，**切勿提交 `.git/config` 到公开仓库**
+```powershell
+# 替换 YOUR_PAT 为你的实际 Personal Access Token
+git remote set-url origin https://shunianssy:YOUR_PAT@github.com/shunianssy/sbox-web.git
+git push -u origin main
+```
+---
+### 国内网络问题应对建议
+
+- 如果 `git push` 超时：
+  - 尝试手机热点（绕过本地网络限制）
+  - 或使用代理（如 Clash）并配置：
+    ```powershell
+    git config --global http.proxy http://127.0.0.1:7890
+    git config --global https.proxy http://127.0.0.1:7890
+    ```
+
+- **不要使用 GitHub 镜像站推送**，它们不支持 `push`。
+
+
+### 后续开发流程（日常使用）
+
+```powershell
+# 修改文件后
+git add .
+git commit -m "fix: update login template"
+git push  # 不再需要 -u
+```
+---
+
+### 📎 附：`.gitignore` 推荐模板（前端项目）
+
+```gitignore
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.local
+
+# Build outputs
+dist/
+build/
+out/
+
+# Dependencies
+node_modules/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Sensitive files
+config.json
+secrets/
+*.key
+*.pem
+```
+
+---
+
+如果你希望将此流程**自动化成脚本**（例如一键推送），或者需要**同步到 Gitee 作为国内备份**，我也可以帮你实现。是否需要？
