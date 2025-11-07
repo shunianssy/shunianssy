@@ -4,7 +4,9 @@
 
 Hi, I'm Xiao Hu Li, aka "Wu Jia Xiao Hu"  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shunianssy)](https://github.com/anuraghazra/github-readme-stats)
-[!shnianssy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shunainssy&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![shnianssy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shunainssy&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 A high school student passionate about coding and creation, working as an independent developer.
 
 Proficient in: C/C++, Python, HTML/CSS/JS, Brainfuck, Scratch & Scratch extensions.
