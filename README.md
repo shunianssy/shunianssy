@@ -3,7 +3,6 @@
 [how-to-git](https://github.com/shunianssy/shunianssy/blob/main/how-to-git)
 
 Hi, I'm Xiao Hu Li, aka "Wu Jia Xiao Hu"  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shunianssy)](https://github.com/anuraghazra/github-readme-stats)
 
 A high school student passionate about coding and creation, working as an independent developer.
 
