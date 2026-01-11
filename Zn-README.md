@@ -1,5 +1,5 @@
 你好，我是小狐狸（shunianssy），也叫“吾家小狐”。
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shunianssy)](https://github.com/anuraghazra/github-readme-stats)
+[![shunianssy's GitHub stats](https://github-readme-stats.vercel.app/api?username=shunianssy)](https://github.com/anuraghazra/github-readme-stats)
 一名热爱编程与创作的高中生，同时也是一名独立开发者。
 
 熟练掌握：C/C++、Python、HTML/CSS/JS、Brainfuck、Scratch 及其扩展。
