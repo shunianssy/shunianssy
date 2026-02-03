@@ -5,6 +5,11 @@ cd C:\Users\Public\TurtleWorkspace\新的作品-50\templates
 
 # 2. 初始化 Git 仓库（仅首次需要）
 git init
+# 设置邮箱
+git config --global user.email "shunianssy@163.com"
+
+# 设置用户名（注意是 user.name，不是 user.namae）
+git config --global user.name "shunian"
 
 # 3. 设置默认分支名为 main（与 GitHub 默认一致）
 git branch -M main
