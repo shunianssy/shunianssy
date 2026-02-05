@@ -42,6 +42,12 @@ git config --global credential.helper manager-core
 # 10. 推送并设置上游分支
 git push -u origin main
 强行推送 git push -u origin main --force
+
+设置代理
+git config --global http.proxy http://127.0.0.1:7897
+
+拉取仓库
+git clone https://github.com/YearnstudioHorizon/Homepage.git
 ```
 ---
 ### 安全替代方案：使用带 Token 的 URL（临时用）
