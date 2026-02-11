@@ -1,22 +1,12 @@
-[简体中文](https://github.com/shunianssy/shunianssy/blob/main/Zn-README.md)
+# 你好，我是小狐狸👋
+(shunianssy/shunian/书念/书家家主)
 
-[how-to-git](https://github.com/shunianssy/shunianssy/blob/main/how-to-git)
+# 我会的
+Python/bf/scratch/编程猫/C/CPP/HTML
 
-Hi, I'm Xiao Hu Li, aka "Wu Jia Xiao Hu"  
+# 我正在学
+javascript/css/godot
 
-A high school student passionate about coding and creation, working as an independent developer.
+# 我的个人网站
+新版[i.shunx.top](https://i.shunx.top)
 
-Proficient in: C/C++, Python, HTML/CSS/JS, Brainfuck, Scratch & Scratch extensions.
-
-Focused on full-stack web development, with a strong interest in open-source projects and technology exploration.
-
-Currently working on:  
-- Developing and maintaining [sbox.yearnstudio.cn](https://sbox.yearnstudio.cn) — fixing bugs and improving code  
-- Planning operations and future roadmap for the "Xiao Hezi Community"  
-- Maintaining and enhancing the open-source project [foxwebsite](https://github.com/shunian/foxwebsite)
-
-📥 Resource Files Download: [https://url12.ctfile.com/d/65362512-154842620-8c8065?p=6406](https://url12.ctfile.com/d/65362512-154842620-8c8065?p=6406)  
-   
-🎁 Support Me: [https://ifdian.net/a/shunian](https://ifdian.net/a/shunian) (Buy me a coffee ☕)
-
-💡 Stay curious, stay passionate — coding and creating forever.
