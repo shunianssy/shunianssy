@@ -5,7 +5,7 @@
 Python/bf/scratch/编程猫/C/CPP/HTML
 
 # 我正在学
-javascript/css/godot
+javascript/css/godot/vue.js
 
 # 我的个人网站
 ### 新版[i.shunx.top](https://i.shunx.top)
