@@ -14,6 +14,9 @@ javascript/css/godot/vue.js/nodejs
 - [ ] 学习 js
 - [ ] 学习 css
 
+# 灵感爆发
+- [ ] 类似 X 的绘画社区
+
 # 我的个人网站
 ### 新版[i.shunx.top](https://i.shunx.top)
 ### 旧版[shunian.scerpark.cn](https://shunian.scerpark.cn/)
