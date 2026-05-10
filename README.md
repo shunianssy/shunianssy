@@ -1,23 +1,22 @@
-# Hello, I'm shunianssy.👋
+# Shunianssy
 (shunianssy/shunian/书念/书家家主)
 
-# skills
-Python/bf/scratch/codemao/C/CPP/HTML/Javascript/CSS
+Hello, welcome to my homepage.
 
-# study
-javascript/css/godot/vue.js/nodejs
+I know a little about programming, such as C++, C language, JavaScript, Python, BF, Scratch, CodeMao, I like python very much.
 
-# doing
-- [ ] 学习 Godot
-- [x] 学习 vue.js
-- [x] 学习 js
-- [x] 学习 css
+Just a greenhorn.hhh
+
 
 # Inspiration
-- [x] 类似 X 的绘画社区
+- [x] A painting community similar to X - pixfox
 
 # personal website
-### new[i.shunx.top](https://i.shunx.top)
+new[i.shunx.top](https://i.shunx.top)
+
+# Works
+[xianyu-next](https://github.com/shunianssy/xianyu-next)
+
 
 # Social
 [Bilibili uid:3493133419546943](https://m.bilibili.com/space/3493133419546943) | [Bilibili Tech Innovation uid:3546925812943471](https://space.bilibili.com/3546925812943471) | [Gitee name:wujiajiouwei](https://gitee.com/wujiajiouwei)
