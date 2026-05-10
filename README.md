@@ -1,4 +1,4 @@
-# Hello, I'm SFox.👋
+# Hello, I'm shunianssy.👋
 (shunianssy/shunian/书念/书家家主)
 
 # skills
@@ -18,9 +18,6 @@ javascript/css/godot/vue.js/nodejs
 
 # personal website
 ### new[i.shunx.top](https://i.shunx.top)
-### old[shunian.scerpark.cn](https://shunian.scerpark.cn/)
 
 # Social
-bilibili [uid:3493133419546943](https://m.bilibili.com/space/3493133419546943)
-
-gitee [name:wujiajiouwei](https://gitee.com/wujiajiouwei)
+[Bilibili uid:3493133419546943](https://m.bilibili.com/space/3493133419546943) | [Bilibili Tech Innovation uid:3546925812943471](https://space.bilibili.com/3546925812943471) | [Gitee name:wujiajiouwei](https://gitee.com/wujiajiouwei)
