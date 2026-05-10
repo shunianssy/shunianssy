@@ -16,6 +16,10 @@ new[i.shunx.top](https://i.shunx.top)
 
 # Works
 [xianyu-next](https://github.com/shunianssy/xianyu-next)
+[foxHippoRAG](https://github.com/shunianssy/foxHippoRAG)
+[foxar](https://github.com/shunianssy/foxar)
+[FoxCode](https://github.com/wuhulab/FoxCode)
+[autoapi](https://github.com/wuhulab/autoapi)
 
 
 # Social
