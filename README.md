@@ -25,5 +25,7 @@ new[i.shunx.top](https://i.shunx.top)
 
 [xianyu-next](https://github.com/shunianssy/xianyu-next) 一个很好的咸鱼自动发货软件（bug | 停止维护）
 
+[foxker](https://github.com/shunianssy/foxker) Windows上好用的docker映射工具，简洁轻量
+
 # Social
 [Bilibili uid:3493133419546943](https://m.bilibili.com/space/3493133419546943) | [Bilibili Tech Innovation uid:3546925812943471](https://space.bilibili.com/3546925812943471) | [Gitee name:wujiajiouwei](https://gitee.com/wujiajiouwei)
