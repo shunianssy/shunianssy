@@ -19,7 +19,7 @@ new[i.shunx.top](https://i.shunx.top)
 
 [foxHippoRAG](https://github.com/shunianssy/foxHippoRAG) RAG高速索引库
 
-[foxar](https://github.com/shunianssy/foxar) 将WSL的docker/podman映射到windows中，拒绝docker桌面版的臃肿
+[foxar](https://github.com/shunianssy/foxar) 一个兼容Flask语法的FastAPI高性能库，结合了Flask的简洁语法和FastAPI的高性能特性
 
 [autoapi](https://github.com/wuhulab/autoapi) LLM转发的auto规则编写工具
 
